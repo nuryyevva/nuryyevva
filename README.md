@@ -1,4 +1,8 @@
 ## Hi there 👋
+| ![Aynur's github stats](https://github-readme-stats.vercel.app/api?username=nuryyevva&show_icons=true&theme=radical)  |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuryyevva&langs_count=8&theme=radical&layout=compact)  |  ![Aynur GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nuryyevva&theme=radical)  |
+| --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |  ------------------------------------------------------------------------------------------------------  |
+
+
 
 <!--
 **nuryyevva/nuryyevva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
