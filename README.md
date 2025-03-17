@@ -6,7 +6,7 @@
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=nuryyevva&show_icons=true&theme=radical" width="600" height="200" alt="GitHub Stats">
-      <img src="https://streak-stats.demolab.com/?user=denvercoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j" width="600" height="200" alt="GitHub Streak">
+      <img src="https://streak-stats.demolab.com/?user=nuryyevva&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j" width="600" height="200" alt="GitHub Streak">
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuryyevva&langs_count=8&theme=radical" width="700" height=400 alt="Top Languages">
