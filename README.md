@@ -1,4 +1,5 @@
 ## Hi there 👋 I am Aynur
+Doing my best to become the coolest backend developer 😎
 
 ## 📊 My GitHub Stats
 
